@@ -204,9 +204,13 @@ SyntaxError: You found it!
 ```
 
 ### 16. Hidden Unicode-valid emojis in __hello__[^secret-unicode-emojis-in-__hello__]
+
 The `__hello__` module actually offers a bit more than just a simple output!
+
 Some emojis cheekily hidden in some classes within `__hello__`
+
 You can check them out by retrieving the docs yourself
+
 ```py
 >>> import __hello__
 >>> help(__hello__)
