@@ -271,7 +271,7 @@ and you can type it out too!
 [^pep-401]: The [PEP 401](https://www.python.org/dev/peps/pep-0401/) is an April Fools' Joke - The PEP's number is 401, i.e. 4/01 or April 1st (April Fools' Day). The PEP states that Guido van Rossum is stepping down. The new title given to him would be pronounced "BDEVIL" (Benevolent Dictator Emeritus Vacationing Indefinitely from the Language) and Guido's successor will be Barry Warsaw, or as he is affectionately known, Uncle Barry. Uncle Barry's official title is "FLUFL" (Friendly Language Uncle For Life). There are in-jokes about the Parrot virtual machine and the "non-existent" Python Secret Underground (possibly a throw-back to ["TINC" on USENET](https://en.wikipedia.org/wiki/There_Is_No_Cabal)).
 [^inpynite]: [Source](https://www.reddit.com/r/Python/comments/6wrd8t/nice_lil_easter_egg_i_suppose/).
 [^peg-parser]: See [this answer](https://stackoverflow.com/a/65487013/14362510)
-[^secret-unicode-emojis-in-__hello__]: The GitHub source link given right [here](https://github.com/Eggy115/Python/blob/main/__hello__.py)
+[^secret-unicode-emojis-in-__hello__]: The GitHub source link to __hello__ emotes given right [here](https://github.com/Eggy115/Python/blob/main/__hello__.py)
 
 ## Add more
 
